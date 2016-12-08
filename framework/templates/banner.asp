@@ -1,0 +1,1 @@
+<% ' do nothing now.. absolute posion banner but we don't need it.. %>
