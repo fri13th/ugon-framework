@@ -18,3 +18,6 @@ The only problem in this framework is view part. 'include' in ASP doesn't suppor
 
 I suggest you to convert old ASP to new ASP MVC Framework and after finishing to move, convert ASP MVC to PHP MVC, PHP works with IIS very well.
 This piece of code will be bridge to new framework.
+
+Use Hyeongryeol StringEncoder for AES. This library is necessary when exchanging session info between ASP and PHP.
+http://ryeol.tistory.com/31
